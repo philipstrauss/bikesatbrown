@@ -1,0 +1,34 @@
+/* CSS declarations go here */
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+
+	font-style: italic;
+	font-size: 50px;
+	margin-bottom: 5px;
+}
+
+.byline {
+
+	font-style: italic;
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.bikelistname {
+
+	font-size: 30px;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#passwordForm {
+
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
