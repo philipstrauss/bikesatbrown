@@ -20,6 +20,14 @@ input {
 	font-size: 20px;
 }
 
+a {
+	target: "_blank";
+	text-decoration: none;
+	font-style: italic;
+	font-size: 20px;
+	color: purple;
+}
+
 .byline {
 
 	font-style: italic;
@@ -48,5 +56,20 @@ input {
 	position: absolute;
 	bottom: 10px;
 	right: 10px;
+}
+
+#fb_link {
+
+	position: absolute;
+	bottom: 70px;
+	left: 15px;
+
+}
+
+#empower_link {
+
+	position: absolute;
+	bottom: 20px;
+	left: 15px;
 }
 
